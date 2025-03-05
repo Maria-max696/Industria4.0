@@ -190,11 +190,6 @@ h1{
   margin-bottom: 30px;
 }
 
-/* Invierte el orden cuando es necesario */
-.fila-inversa {
-  flex-direction: row-reverse;
-}
-
 /* Estilos de las cajas de texto */
 .caja {
   background: white;
